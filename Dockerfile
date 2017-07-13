@@ -1,5 +1,5 @@
 
-FROM postgres:9.4
+FROM postgres:latest
 
 MAINTAINER Arnulf Heimsbakk <arnulf.heimsbakk+docker@gmail.com>
 
