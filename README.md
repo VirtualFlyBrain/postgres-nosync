@@ -1,9 +1,5 @@
 # Supported tags
 
-* `9.4`
-
-    Based on `postgres:9.4`.
-
 * `latest`
 
     Git master branch. May upgrade to newer version of postgres without warning.
